@@ -1,0 +1,29 @@
+{
+  "name": "subtract",
+  "version": "0.0.1",
+  "description": "subtract numbers",
+  "main": "lib",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stawberri/subtract.git"
+  },
+  "keywords": [
+    "difference",
+    "math",
+    "minus",
+    "number",
+    "subtraction"
+  ],
+  "author": "Pudding <aideen@aideen.pw> (https://www.puddi.pw/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stawberri/subtract/issues"
+  },
+  "homepage": "https://github.com/stawberri/subtract#readme"
+}
