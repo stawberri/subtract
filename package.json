@@ -7,23 +7,23 @@
     "lib": "lib"
   },
   "scripts": {
+    "precommit": "pretty-quick --staged",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stawberri/subtract.git"
   },
-  "keywords": [
-    "difference",
-    "math",
-    "minus",
-    "number",
-    "subtraction"
-  ],
+  "keywords": ["difference", "math", "minus", "number", "subtraction"],
   "author": "Pudding <aideen@aideen.pw> (https://www.puddi.pw/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/stawberri/subtract/issues"
   },
-  "homepage": "https://github.com/stawberri/subtract#readme"
+  "homepage": "https://github.com/stawberri/subtract#readme",
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "prettier": "^1.11.1",
+    "pretty-quick": "^1.4.1"
+  }
 }
