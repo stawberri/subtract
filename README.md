@@ -7,6 +7,7 @@ subtract numbers
 [![Build Status](https://travis-ci.org/stawberri/subtract.svg?branch=master)](https://travis-ci.org/stawberri/subtract)
 [![jest](https://facebook.github.io/jest/img/jest-badge.svg)](https://github.com/facebook/jest)
 [![prettier](https://img.shields.io/badge/code_style-prettier-1a2a33.svg)](https://github.com/prettier/prettier)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 This is a simple module that exports a function that subtracts numbers.
 
